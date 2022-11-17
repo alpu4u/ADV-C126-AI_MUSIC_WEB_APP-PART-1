@@ -7,7 +7,7 @@ function preload()
     song2=loadSound("We_Will_Rock_You.mp3");
 }
 
-function play()
+function playSong()
 {
     song1.play();
 }
