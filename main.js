@@ -9,7 +9,7 @@ function preload()
 
 function play()
 {
-    song.play();
+    song1.play();
 }
 
 function setup()
